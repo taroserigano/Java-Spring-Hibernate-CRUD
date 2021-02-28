@@ -1,4 +1,4 @@
-# Java-Hibernate-CRUD + MySQL + JDBC
+# Java-Spring-Hibernate-CRUD + MySQL + JDBC
 
 ## Spring Framework Hibernate app that lets you
 Create, Read, Update and Delete student's directory.
