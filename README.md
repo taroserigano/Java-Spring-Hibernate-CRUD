@@ -1,4 +1,4 @@
-# Java-Spring-Hibernate-CRUD + MySQL + JDBC
+# Java-Spring-Hibernate-CRUD + MySQL + JDBC + Persistence
 
 ## Spring Framework Hibernate app that lets you
 Create, Read, Update and Delete student's directory that are stored in MySQL Database.
